@@ -1,0 +1,17 @@
+{
+  "main": "./lib/springbase",
+  "author": "Springbase <nodejs@springbase.com>",
+  "name": "springbase",
+  "description": "Springbase Database Driver for NodeJS",
+  "version": "0.1.0",
+  "homepage": "http://www.springbase.com/node-springbase",
+  "repository": {
+    "url": ""
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
