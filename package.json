@@ -4,7 +4,7 @@
   "name": "springbase",
   "description": "Springbase Database Driver for NodeJS",
   "version": "0.1.0",
-  "homepage": "http://www.springbase.com/node-springbase",
+  "homepage": "http://www.springbase.com/node-driver",
   "repository": {
     "url": ""
   },
