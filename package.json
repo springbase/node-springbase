@@ -3,7 +3,7 @@
   "author": "Springbase <nodejs@springbase.com>",
   "name": "springbase",
   "description": "Springbase Database Driver for NodeJS",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "http://www.springbase.com/node-driver",
   "repository": {
     "url": ""
